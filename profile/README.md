@@ -1,6 +1,6 @@
 # Venture Chat
 We are a small chat app, looking for developers.
-<br> We currently have 4 people on our team.
+<br> We currently have 5 people on our team.
 
 ## Backend + Frontend
 <br> See the backend + frontend at;
